@@ -48,3 +48,5 @@ L'objectif de ce projet est de faire la gestion d'emprunt dans une librairie via
 |S15|0001|   13-06-2020| 13-10-2020|
 |S16|0002|   24-01-2020| 24-01-2020|
 |S17|0001|   12-04-2020| 01-07-2020|
+
+Le fichier output contient les résultat de la question 8.
